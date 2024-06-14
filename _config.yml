@@ -1,9 +1,9 @@
 # Site settings
-title: Chama Antifa
+title: C.H.A.M.A. Antifa
 SEOTitle: Chama Antifa
 header-img: img/flame.png
 email: chamaantifa@tuta.io
-description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex, pariatur! Sapiente, exercitationem! Commodi inventore eaque quis fugiat numquam officia voluptatibus deleniti sint, eligendi neque accusantium alias debitis quisquam! Accusamus, tempore!"
+description: "Onde há fumaça, há fogo 🔥///"
 keyword: ""
 url: "https://chamaantifa.org" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -17,7 +17,7 @@ weibo_username: false
 zhihu_username: false
 github_username: chamaantifa
 twitter_username: chamaantifa
-#facebook_username:  false
+instagram_username:  false
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -71,11 +71,11 @@ ga_domain: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex, pariatur! Sapiente, exercitationem! Commodi inventore eaque quis fugiat numquam officia voluptatibus deleniti sint, eligendi neque accusantium alias debitis quisquam! Accusamus, tempore! "
+sidebar-about-description: "Onde há fumaça, há fogo 🔥///"
 sidebar-avatar: img/favicon.ico # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
+featured-tags: false # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
